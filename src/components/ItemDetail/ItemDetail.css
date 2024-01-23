@@ -1,0 +1,11 @@
+.contenedorItem {
+    text-align: center;
+    border: 4px solid black;
+    margin: 3rem;
+    background-color: whitesmoke;
+}
+
+imgDetail {
+   width: 50vm; 
+   padding: 4px;
+}

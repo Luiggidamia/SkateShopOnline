@@ -11,16 +11,21 @@ li {
     display: inline-block;
     margin: 1rem;
     cursor: pointer;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    
 }
 
 h1 {
-    color: #3B8717;
+    color: red;
     -webkit-text-stroke-width: 2px;
     -webkit-text-stroke-color: black;
+    margin-left: 20px;
+    
 }
 
-li {
-    font-family: Arial, Helvetica, sans-serif;
-    font-weight: 600;
+.imgNav {
+    height: 150px;
+    margin-left: 15px;
 }
 
